@@ -4,9 +4,10 @@
   "private": true,
   "homepage": "https://hopes91.github.io/robofriends",
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "eslint": "^6.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "1.1.1",
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,6 +19,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "tachyons": "^4.10.0"
+    "tachyons": "^4.11.1"
   }
 }
