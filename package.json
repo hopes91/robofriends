@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://hopes91.github.io/robofriends",
   "dependencies": {
-    "eslint": "^6.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "1.1.1"
